@@ -15,7 +15,7 @@ const ProductCard=(obj)=>{
             <img src="./public/pics/img1.jpg" alt="" width={100}/>
             </center>
              <h1>It's card</h1>
-             <p>Company:{obj.company}</p>
+            
              <p>Price:{obj.price}</p>
              <p>Owner:{obj.owner}</p>
              <p>Model:{obj.model}</p>
